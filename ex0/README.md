@@ -40,11 +40,13 @@ Furthermore, I also used a HashMap in the shortestPath function in order to stor
 
 Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
 
-Run Time for isConnected: O(n) - The function goes through every node in the graph to find out if it's connected.
+Run Time for isConnected: O(|E|+|V|) - The function goes through every node in the graph to find out if it's connected.
 
-Run time for shortestPath: O(n) - The function goes through every node in the graph to find the shortest path.
+Run time for shortestPath: O(|E|+|V|) - The function goes through every node in the graph to find the shortest path.
 
-Run time for shortestPathDist: O(n) - Using shortestPath to find the distance.
+Run time for shortestPathDist: O(|E|+|V|) - Using shortestPath to find the distance.
+
+V - vertices        E - edges
 
 
 Additional information on each function is located as Javadoc comments ABOVE each function.
