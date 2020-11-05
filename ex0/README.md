@@ -38,13 +38,12 @@ I used the Queue data structure in order to properly travel across the graph and
 Depending on the function, I used different structures in order to return the result in the most efficient way possible.
 Furthermore, I also used a HashMap in the shortestPath function in order to store each nodes parent node so once the function reaches the destination node, it knows how to get back to the original source node and therefore quickly retracing the shortest path possible between the two nodes.
 
-Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
-
-Run Time for isConnected: O(|E|+|V|) - The function goes through every node in the graph to find out if it's connected.
-
-Run time for shortestPath: O(|E|+|V|)- The function goes through every node in the graph to find the shortest path.
-
-Run time for shortestPathDist: O(|E|+|V|) - Using shortestPath to find the distance.
+### Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
+|Function Name | Time Complexity | Extra Info |
+|--------------|-----------------|------------|
+|isConnected | O(|E|+|V|) | The function goes through every node in the graph to find out if it's connected.
+|shortestPath | O(|E|+|V|) | The function goes through every node in the graph to find the shortest path.
+|shortestPathDist | O(|E|+|V|) | Using shortestPath to find the distance.
 
 V - vertices   ,     E - edges
 
