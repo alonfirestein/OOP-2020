@@ -1,8 +1,7 @@
-#Course: Object Oriented Programming - Ariel University
-Assignment: ex0
-Student: Alon Firestein
-ID: 314984402
-Due Date: 08/11/2020
+# Course: Object Oriented Programming - Ariel University
+#### Assignment: ex0
+#### Student: Alon Firestein
+
 
 
 For this assignment, I implemented the three classes (NodeData, Graph_DS, Graph_Algo) using the their respective interfaces that was provided to me in order to create a fully functional graph.
