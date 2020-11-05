@@ -41,9 +41,9 @@ Furthermore, I also used a HashMap in the shortestPath function in order to stor
 ### Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
 |Function Name | Time Complexity | Extra Info |
 |--------------|-----------------|------------|
-|isConnected | O(|E|+|V|) | The function goes through every node in the graph to find out if it's connected.
-|shortestPath | O(|E|+|V|) | The function goes through every node in the graph to find the shortest path.
-|shortestPathDist | O(|E|+|V|) | Using shortestPath to find the distance.
+|isConnected | O(|E|+|V|) | The function goes through every node in the graph to find out if it's connected. |
+|shortestPath | O(|E|+|V|) | The function goes through every node in the graph to find the shortest path. |
+|shortestPathDist | O(|E|+|V|) | Using shortestPath to find the distance. |
 
 V - vertices   ,     E - edges
 
