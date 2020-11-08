@@ -108,8 +108,7 @@ public class Graph_Algo implements graph_algorithms {
 
     @Override
     /**
-//     * Using the shortestPath function, we return the length of steps/edges the path goes through.
-     * its length.
+     * Using the shortestPath function, we return the length of steps/edges the path goes through.
      * @param src - start node
      * @param dest - end (destination) node
      */
