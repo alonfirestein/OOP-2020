@@ -4,7 +4,7 @@
 
 
 
-For this assignment, I implemented the three classes (NodeData, Graph_DS, Graph_Algo) using the their respective interfaces that was provided to me in order to create a fully functional graph.
+For this assignment, I implemented the three classes (NodeData, Graph_DS, Graph_Algo) using the their respective interfaces that was provided to me in order to create a fully functional undirected and unweighted graph.
 
 ------------------------------------
 
