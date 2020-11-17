@@ -1,4 +1,4 @@
-# Course: Object Oriented Programming - Ariel University
+# Object Oriented Programming - Ariel University
 #### Assignment: ex0
 #### Student: Alon Firestein
 
