@@ -10,8 +10,8 @@ For this assignment, I implemented the three classes (NodeData, Graph_DS, Graph_
 
 *****NodeData*****
 
-Each node has its own unique identifier (Key), its value (NodeInfo), and a Tag (to mark it).
-In order to keep track of which node is connected to who, I used the ArrayList data structure with node_data in it to keep track of each nodes adjacent nodes (neighbours). 
+Each node has its own unique identifier (Key), additional string info, and a Tag (to mark it).
+In order to keep track of which node is connected to who, I used the ArrayList data structure in it to keep track of each nodes adjacent nodes (neighbours). 
 Using this information and the variables, I was able to fulfill the node_data interface function requirements.
 
 Additional information on each function is located as Javadoc comments ABOVE each function.
